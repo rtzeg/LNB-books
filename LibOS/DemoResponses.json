@@ -1,0 +1,922 @@
+[
+  {
+    "id": "DEMO_1",
+    "timestamp": 800000000,
+    "segment": "never",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "University",
+    "feedback": "I would like to know more about the services before visiting.",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_2",
+    "timestamp": 800003600,
+    "segment": "lapsed",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_3",
+    "timestamp": 800007200,
+    "segment": "occasional",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Community center",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_4",
+    "timestamp": 800010800,
+    "segment": "active",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_5",
+    "timestamp": 800014400,
+    "segment": "never",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Social media",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_6",
+    "timestamp": 800018000,
+    "segment": "lapsed",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_7",
+    "timestamp": 800021600,
+    "segment": "occasional",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "University",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_8",
+    "timestamp": 800025200,
+    "segment": "active",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_9",
+    "timestamp": 800028800,
+    "segment": "never",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Community center",
+    "feedback": "I would like to know more about the services before visiting.",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_10",
+    "timestamp": 800032400,
+    "segment": "lapsed",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_11",
+    "timestamp": 800036000,
+    "segment": "occasional",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Social media",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_12",
+    "timestamp": 800039600,
+    "segment": "active",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_13",
+    "timestamp": 800043200,
+    "segment": "never",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "University",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_14",
+    "timestamp": 800046800,
+    "segment": "lapsed",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_15",
+    "timestamp": 800050400,
+    "segment": "occasional",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Community center",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_16",
+    "timestamp": 800054000,
+    "segment": "active",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_17",
+    "timestamp": 800057600,
+    "segment": "never",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Social media",
+    "feedback": "I would like to know more about the services before visiting.",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_18",
+    "timestamp": 800061200,
+    "segment": "lapsed",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_19",
+    "timestamp": 800064800,
+    "segment": "occasional",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "University",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_20",
+    "timestamp": 800068400,
+    "segment": "active",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_21",
+    "timestamp": 800072000,
+    "segment": "never",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Community center",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_22",
+    "timestamp": 800075600,
+    "segment": "lapsed",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_23",
+    "timestamp": 800079200,
+    "segment": "occasional",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Social media",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_24",
+    "timestamp": 800082800,
+    "segment": "active",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_25",
+    "timestamp": 800086400,
+    "segment": "never",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "University",
+    "feedback": "I would like to know more about the services before visiting.",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_26",
+    "timestamp": 800090000,
+    "segment": "lapsed",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_27",
+    "timestamp": 800093600,
+    "segment": "occasional",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Community center",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_28",
+    "timestamp": 800097200,
+    "segment": "active",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_29",
+    "timestamp": 800100800,
+    "segment": "never",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Social media",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_30",
+    "timestamp": 800104400,
+    "segment": "lapsed",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_31",
+    "timestamp": 800108000,
+    "segment": "occasional",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "University",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_32",
+    "timestamp": 800111600,
+    "segment": "active",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_33",
+    "timestamp": 800115200,
+    "segment": "never",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Community center",
+    "feedback": "I would like to know more about the services before visiting.",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_34",
+    "timestamp": 800118800,
+    "segment": "lapsed",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_35",
+    "timestamp": 800122400,
+    "segment": "occasional",
+    "barriers": [
+      "Accessibility",
+      "Lack of awareness"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Science"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Social media",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_36",
+    "timestamp": 800126000,
+    "segment": "active",
+    "barriers": [
+      "No relevant recommendations",
+      "Opening hours"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Culture"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Other",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_37",
+    "timestamp": 800129600,
+    "segment": "never",
+    "barriers": [
+      "Lack of awareness",
+      "Travel distance"
+    ],
+    "services": [
+      "Digital resources"
+    ],
+    "interests": [
+      "Fiction"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "University",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_38",
+    "timestamp": 800133200,
+    "segment": "lapsed",
+    "barriers": [
+      "Opening hours",
+      "Difficulty finding books"
+    ],
+    "services": [
+      "Study spaces"
+    ],
+    "interests": [
+      "History"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": null,
+    "source": "Café",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_39",
+    "timestamp": 800136800,
+    "segment": "occasional",
+    "barriers": [
+      "Travel distance",
+      "Accessibility"
+    ],
+    "services": [
+      "Events"
+    ],
+    "interests": [
+      "Technology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Community center",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  },
+  {
+    "id": "DEMO_40",
+    "timestamp": 800140400,
+    "segment": "active",
+    "barriers": [
+      "Difficulty finding books",
+      "No relevant recommendations"
+    ],
+    "services": [
+      "Book recommendations"
+    ],
+    "interests": [
+      "Psychology"
+    ],
+    "motivation": [
+      "Relevant recommendations"
+    ],
+    "navigationEase": "Sometimes difficult",
+    "source": "Library",
+    "feedback": "",
+    "language": "English",
+    "isDemo": true
+  }
+]

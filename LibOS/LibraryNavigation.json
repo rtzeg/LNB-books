@@ -1,0 +1,295 @@
+{
+  "sceneName": "Gaismas pils · fixed demo collection, floor 1",
+  "coordinateSystem": "Y up; X/Z horizontal; meters; floor surface Y=0",
+  "modelFilename": "LibraryModels.scnassets/LNB_Gaismas_pils.obj",
+  "modelTransform": {
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "floors": [
+    1
+  ],
+  "nodes": [
+    {
+      "id": "ENTRANCE",
+      "label": "Collection entrance · floor 1",
+      "position": {
+        "x": 22,
+        "y": 0.15,
+        "z": 4
+      },
+      "floor": 1,
+      "type": "entrance"
+    },
+    {
+      "id": "DESK",
+      "label": "Information desk",
+      "position": {
+        "x": 22,
+        "y": 0.15,
+        "z": 6
+      },
+      "floor": 1,
+      "type": "service"
+    },
+    {
+      "id": "READING",
+      "label": "Reading area",
+      "position": {
+        "x": 46,
+        "y": 0.15,
+        "z": 5
+      },
+      "floor": 1,
+      "type": "service"
+    },
+    {
+      "id": "J0",
+      "label": "Corridor 1",
+      "position": {
+        "x": 28,
+        "y": 0.15,
+        "z": 3
+      },
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "A1",
+      "label": "Shelf 1 access",
+      "position": {
+        "x": 28,
+        "y": 0.15,
+        "z": 0
+      },
+      "floor": 1,
+      "type": "shelf"
+    },
+    {
+      "id": "A2",
+      "label": "Shelf 2 access",
+      "position": {
+        "x": 28,
+        "y": 0.15,
+        "z": 5
+      },
+      "floor": 1,
+      "type": "shelf"
+    },
+    {
+      "id": "J1",
+      "label": "Corridor 2",
+      "position": {
+        "x": 36,
+        "y": 0.15,
+        "z": 3
+      },
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "A3",
+      "label": "Shelf 3 access",
+      "position": {
+        "x": 36,
+        "y": 0.15,
+        "z": 0
+      },
+      "floor": 1,
+      "type": "shelf"
+    },
+    {
+      "id": "A4",
+      "label": "Shelf 4 access",
+      "position": {
+        "x": 36,
+        "y": 0.15,
+        "z": 5
+      },
+      "floor": 1,
+      "type": "shelf"
+    },
+    {
+      "id": "J2",
+      "label": "Corridor 3",
+      "position": {
+        "x": 44,
+        "y": 0.15,
+        "z": 3
+      },
+      "floor": 1,
+      "type": "junction"
+    },
+    {
+      "id": "A5",
+      "label": "Shelf 5 access",
+      "position": {
+        "x": 44,
+        "y": 0.15,
+        "z": 0
+      },
+      "floor": 1,
+      "type": "shelf"
+    },
+    {
+      "id": "A6",
+      "label": "Shelf 6 access",
+      "position": {
+        "x": 44,
+        "y": 0.15,
+        "z": 5
+      },
+      "floor": 1,
+      "type": "shelf"
+    }
+  ],
+  "edges": [
+    {
+      "fromNode": "ENTRANCE",
+      "toNode": "J0",
+      "weight": 6.0827625302982185,
+      "accessible": true
+    },
+    {
+      "fromNode": "ENTRANCE",
+      "toNode": "DESK",
+      "weight": 2,
+      "accessible": true
+    },
+    {
+      "fromNode": "J0",
+      "toNode": "J1",
+      "weight": 8,
+      "accessible": true
+    },
+    {
+      "fromNode": "J1",
+      "toNode": "J2",
+      "weight": 8,
+      "accessible": true
+    },
+    {
+      "fromNode": "J0",
+      "toNode": "A1",
+      "weight": 3,
+      "accessible": true
+    },
+    {
+      "fromNode": "J0",
+      "toNode": "A2",
+      "weight": 2,
+      "accessible": true
+    },
+    {
+      "fromNode": "J1",
+      "toNode": "A3",
+      "weight": 3,
+      "accessible": true
+    },
+    {
+      "fromNode": "J1",
+      "toNode": "A4",
+      "weight": 2,
+      "accessible": true
+    },
+    {
+      "fromNode": "J2",
+      "toNode": "A5",
+      "weight": 3,
+      "accessible": true
+    },
+    {
+      "fromNode": "J2",
+      "toNode": "A6",
+      "weight": 2,
+      "accessible": true
+    },
+    {
+      "fromNode": "A6",
+      "toNode": "READING",
+      "weight": 2,
+      "accessible": true
+    }
+  ],
+  "shelves": [
+    {
+      "id": "SHELF_1",
+      "label": "1 · Fiction",
+      "accessNodeID": "A1",
+      "position": {
+        "x": 28,
+        "y": 0.15,
+        "z": -1
+      },
+      "floor": 1
+    },
+    {
+      "id": "SHELF_2",
+      "label": "2 · History",
+      "accessNodeID": "A2",
+      "position": {
+        "x": 28,
+        "y": 0.15,
+        "z": 6
+      },
+      "floor": 1
+    },
+    {
+      "id": "SHELF_3",
+      "label": "3 · Technology",
+      "accessNodeID": "A3",
+      "position": {
+        "x": 36,
+        "y": 0.15,
+        "z": -1
+      },
+      "floor": 1
+    },
+    {
+      "id": "SHELF_4",
+      "label": "4 · Psychology",
+      "accessNodeID": "A4",
+      "position": {
+        "x": 36,
+        "y": 0.15,
+        "z": 6
+      },
+      "floor": 1
+    },
+    {
+      "id": "SHELF_5",
+      "label": "5 · Science",
+      "accessNodeID": "A5",
+      "position": {
+        "x": 44,
+        "y": 0.15,
+        "z": -1
+      },
+      "floor": 1
+    },
+    {
+      "id": "SHELF_6",
+      "label": "6 · Culture",
+      "accessNodeID": "A6",
+      "position": {
+        "x": 44,
+        "y": 0.15,
+        "z": 6
+      },
+      "floor": 1
+    }
+  ]
+}

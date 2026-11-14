@@ -1,0 +1,471 @@
+[
+  {
+    "id": "BOOK_001",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "A portrait of ambition, reinvention and longing in the Jazz Age.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "fiction",
+      "F. Scott Fitzgerald"
+    ]
+  },
+  {
+    "id": "BOOK_002",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "Elizabeth Bennet navigates family expectations, first impressions and love.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "fiction",
+      "Jane Austen"
+    ]
+  },
+  {
+    "id": "BOOK_003",
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "An independent heroine searches for belonging and moral freedom.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "fiction",
+      "Charlotte Brontë"
+    ]
+  },
+  {
+    "id": "BOOK_004",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "A scientist’s creation raises enduring questions of responsibility.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "fiction",
+      "Mary Shelley"
+    ]
+  },
+  {
+    "id": "BOOK_005",
+    "title": "The Histories",
+    "author": "Herodotus",
+    "genre": "History",
+    "language": "English",
+    "description": "An ancient inquiry into peoples, customs and conflict.",
+    "shelfID": "SHELF_2",
+    "floor": 1,
+    "keywords": [
+      "history",
+      "Herodotus"
+    ]
+  },
+  {
+    "id": "BOOK_006",
+    "title": "The History of the Peloponnesian War",
+    "author": "Thucydides",
+    "genre": "History",
+    "language": "English",
+    "description": "A detailed account of power and war in ancient Greece.",
+    "shelfID": "SHELF_2",
+    "floor": 1,
+    "keywords": [
+      "history",
+      "Thucydides"
+    ]
+  },
+  {
+    "id": "BOOK_007",
+    "title": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "genre": "History",
+    "language": "English",
+    "description": "A narrative of the opening month of the First World War.",
+    "shelfID": "SHELF_2",
+    "floor": 1,
+    "keywords": [
+      "history",
+      "Barbara W. Tuchman"
+    ]
+  },
+  {
+    "id": "BOOK_008",
+    "title": "The Age of Revolution",
+    "author": "Eric Hobsbawm",
+    "genre": "History",
+    "language": "English",
+    "description": "An exploration of Europe’s industrial and political transformations.",
+    "shelfID": "SHELF_2",
+    "floor": 1,
+    "keywords": [
+      "history",
+      "Eric Hobsbawm"
+    ]
+  },
+  {
+    "id": "BOOK_009",
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas and Andrew Hunt",
+    "genre": "Technology",
+    "language": "English",
+    "description": "Practical ideas for thoughtful, adaptable software development.",
+    "shelfID": "SHELF_3",
+    "floor": 1,
+    "keywords": [
+      "technology",
+      "David Thomas and Andrew Hunt"
+    ]
+  },
+  {
+    "id": "BOOK_010",
+    "title": "Code",
+    "author": "Charles Petzold",
+    "genre": "Technology",
+    "language": "English",
+    "description": "An accessible journey from simple signals to working computers.",
+    "shelfID": "SHELF_3",
+    "floor": 1,
+    "keywords": [
+      "technology",
+      "Charles Petzold"
+    ]
+  },
+  {
+    "id": "BOOK_011",
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "Technology",
+    "language": "English",
+    "description": "How design can make everyday objects understandable and usable.",
+    "shelfID": "SHELF_3",
+    "floor": 1,
+    "keywords": [
+      "technology",
+      "Don Norman"
+    ]
+  },
+  {
+    "id": "BOOK_012",
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "genre": "Technology",
+    "language": "English",
+    "description": "Stories of the collaboration behind the digital revolution.",
+    "shelfID": "SHELF_3",
+    "floor": 1,
+    "keywords": [
+      "technology",
+      "Walter Isaacson"
+    ]
+  },
+  {
+    "id": "BOOK_013",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "language": "English",
+    "description": "An exploration of intuitive and deliberate thinking.",
+    "shelfID": "SHELF_4",
+    "floor": 1,
+    "keywords": [
+      "psychology",
+      "Daniel Kahneman"
+    ]
+  },
+  {
+    "id": "BOOK_014",
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "Psychology",
+    "language": "English",
+    "description": "A reflection on meaning, resilience and human experience.",
+    "shelfID": "SHELF_4",
+    "floor": 1,
+    "keywords": [
+      "psychology",
+      "Viktor E. Frankl"
+    ]
+  },
+  {
+    "id": "BOOK_015",
+    "title": "Flow",
+    "author": "Mihaly Csikszentmihalyi",
+    "genre": "Psychology",
+    "language": "English",
+    "description": "An account of absorption, attention and fulfilling activity.",
+    "shelfID": "SHELF_4",
+    "floor": 1,
+    "keywords": [
+      "psychology",
+      "Mihaly Csikszentmihalyi"
+    ]
+  },
+  {
+    "id": "BOOK_016",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Psychology",
+    "language": "English",
+    "description": "Stories about behavior, uncertainty and financial decisions.",
+    "shelfID": "SHELF_4",
+    "floor": 1,
+    "keywords": [
+      "psychology",
+      "Morgan Housel"
+    ]
+  },
+  {
+    "id": "BOOK_017",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science",
+    "language": "English",
+    "description": "An introduction to cosmology, time and the universe.",
+    "shelfID": "SHELF_5",
+    "floor": 1,
+    "keywords": [
+      "science",
+      "Stephen Hawking"
+    ]
+  },
+  {
+    "id": "BOOK_018",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "Science",
+    "language": "English",
+    "description": "A wide-ranging exploration of science and our place in space.",
+    "shelfID": "SHELF_5",
+    "floor": 1,
+    "keywords": [
+      "science",
+      "Carl Sagan"
+    ]
+  },
+  {
+    "id": "BOOK_019",
+    "title": "On the Origin of Species",
+    "author": "Charles Darwin",
+    "genre": "Science",
+    "language": "English",
+    "description": "The foundational argument for evolution by natural selection.",
+    "shelfID": "SHELF_5",
+    "floor": 1,
+    "keywords": [
+      "science",
+      "Charles Darwin"
+    ]
+  },
+  {
+    "id": "BOOK_020",
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "genre": "Science",
+    "language": "English",
+    "description": "A landmark examination of pesticides and the environment.",
+    "shelfID": "SHELF_5",
+    "floor": 1,
+    "keywords": [
+      "science",
+      "Rachel Carson"
+    ]
+  },
+  {
+    "id": "BOOK_021",
+    "title": "Lāčplēsis",
+    "author": "Andrejs Pumpurs",
+    "genre": "Culture",
+    "language": "Latvian",
+    "description": "The Latvian national epic of courage, identity and struggle.",
+    "shelfID": "SHELF_6",
+    "floor": 1,
+    "keywords": [
+      "culture",
+      "Andrejs Pumpurs"
+    ]
+  },
+  {
+    "id": "BOOK_022",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Culture",
+    "language": "English",
+    "description": "A poetic tale of friendship, imagination and responsibility.",
+    "shelfID": "SHELF_6",
+    "floor": 1,
+    "keywords": [
+      "culture",
+      "Antoine de Saint-Exupéry"
+    ]
+  },
+  {
+    "id": "BOOK_023",
+    "title": "Ways of Seeing",
+    "author": "John Berger",
+    "genre": "Culture",
+    "language": "English",
+    "description": "An invitation to reconsider how we interpret visual culture.",
+    "shelfID": "SHELF_6",
+    "floor": 1,
+    "keywords": [
+      "culture",
+      "John Berger"
+    ]
+  },
+  {
+    "id": "BOOK_024",
+    "title": "A Room of One’s Own",
+    "author": "Virginia Woolf",
+    "genre": "Culture",
+    "language": "English",
+    "description": "An essay on creativity, independence and women’s writing.",
+    "shelfID": "SHELF_6",
+    "floor": 1,
+    "keywords": [
+      "culture",
+      "Virginia Woolf"
+    ]
+  },
+  {
+    "id": "BOOK_25",
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "Harry discovers the wizarding world and begins his first year at Hogwarts.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 1",
+      "Sorcerer's Stone"
+    ]
+  },
+  {
+    "id": "BOOK_26",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "A hidden chamber and mysterious attacks threaten Hogwarts during Harry’s second year.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 2",
+      "Harry Potter and the Chamber of Secrets"
+    ]
+  },
+  {
+    "id": "BOOK_27",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "An escaped prisoner brings secrets from Harry’s past into his third year at Hogwarts.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 3",
+      "Harry Potter and the Prisoner of Azkaban"
+    ]
+  },
+  {
+    "id": "BOOK_28",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "Harry faces a dangerous magical tournament as a darker threat returns.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 4",
+      "Harry Potter and the Goblet of Fire"
+    ]
+  },
+  {
+    "id": "BOOK_29",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "Harry and his friends organize to defend themselves while the wizarding world is divided.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 5",
+      "Harry Potter and the Order of the Phoenix"
+    ]
+  },
+  {
+    "id": "BOOK_30",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "A mysterious textbook and lessons about Voldemort’s past shape Harry’s sixth year.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 6",
+      "Harry Potter and the Half-Blood Prince"
+    ]
+  },
+  {
+    "id": "BOOK_31",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "language": "English",
+    "description": "Harry, Ron and Hermione leave Hogwarts to seek the means to defeat Voldemort.",
+    "shelfID": "SHELF_1",
+    "floor": 1,
+    "keywords": [
+      "Harry Potter",
+      "harry pottter",
+      "Гарри Поттер",
+      "Hogwarts",
+      "fantasy",
+      "Harry Potter 7",
+      "Harry Potter and the Deathly Hallows"
+    ]
+  }
+]

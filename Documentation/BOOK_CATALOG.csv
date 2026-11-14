@@ -1,0 +1,32 @@
+﻿ID,Title,Author,Genre,Language,Floor,Shelf
+BOOK_001,The Great Gatsby,F. Scott Fitzgerald,Fiction,English,1,SHELF_1
+BOOK_002,Pride and Prejudice,Jane Austen,Fiction,English,1,SHELF_1
+BOOK_003,Jane Eyre,Charlotte Brontë,Fiction,English,1,SHELF_1
+BOOK_004,Frankenstein,Mary Shelley,Fiction,English,1,SHELF_1
+BOOK_005,The Histories,Herodotus,History,English,1,SHELF_2
+BOOK_006,The History of the Peloponnesian War,Thucydides,History,English,1,SHELF_2
+BOOK_007,The Guns of August,Barbara W. Tuchman,History,English,1,SHELF_2
+BOOK_008,The Age of Revolution,Eric Hobsbawm,History,English,1,SHELF_2
+BOOK_009,The Pragmatic Programmer,David Thomas and Andrew Hunt,Technology,English,1,SHELF_3
+BOOK_010,Code,Charles Petzold,Technology,English,1,SHELF_3
+BOOK_011,The Design of Everyday Things,Don Norman,Technology,English,1,SHELF_3
+BOOK_012,The Innovators,Walter Isaacson,Technology,English,1,SHELF_3
+BOOK_013,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,English,1,SHELF_4
+BOOK_014,Man’s Search for Meaning,Viktor E. Frankl,Psychology,English,1,SHELF_4
+BOOK_015,Flow,Mihaly Csikszentmihalyi,Psychology,English,1,SHELF_4
+BOOK_016,The Psychology of Money,Morgan Housel,Psychology,English,1,SHELF_4
+BOOK_017,A Brief History of Time,Stephen Hawking,Science,English,1,SHELF_5
+BOOK_018,Cosmos,Carl Sagan,Science,English,1,SHELF_5
+BOOK_019,On the Origin of Species,Charles Darwin,Science,English,1,SHELF_5
+BOOK_020,Silent Spring,Rachel Carson,Science,English,1,SHELF_5
+BOOK_021,Lāčplēsis,Andrejs Pumpurs,Culture,Latvian,1,SHELF_6
+BOOK_022,The Little Prince,Antoine de Saint-Exupéry,Culture,English,1,SHELF_6
+BOOK_023,Ways of Seeing,John Berger,Culture,English,1,SHELF_6
+BOOK_024,A Room of One’s Own,Virginia Woolf,Culture,English,1,SHELF_6
+BOOK_25,Harry Potter and the Philosopher’s Stone,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_26,Harry Potter and the Chamber of Secrets,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_27,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_28,Harry Potter and the Goblet of Fire,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_29,Harry Potter and the Order of the Phoenix,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_30,Harry Potter and the Half-Blood Prince,J. K. Rowling,Fiction,English,1,SHELF_1
+BOOK_31,Harry Potter and the Deathly Hallows,J. K. Rowling,Fiction,English,1,SHELF_1

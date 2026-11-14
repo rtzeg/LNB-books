@@ -1,32 +1,13 @@
-//
-//  LibOSApp.swift
-//  LibOS
-//
-//  Created by RMN on 14/11/26.
-//
-
 import SwiftUI
-import SwiftData
 
 @main
 struct LibOSApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Item.self,
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
-        do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
-        } catch {
-            fatalError("Could not create ModelContainer: \(error)")
-        }
-    }()
-
+    @State private var state = AppState()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(state: state)
+                .tint(Theme.navy)
+                .preferredColorScheme(.light)
         }
-        .modelContainer(sharedModelContainer)
     }
 }
